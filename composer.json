@@ -2,7 +2,6 @@
     "name": "contacta/message-chars",
     "description": "Count chars, check if is gsm or unicode, number of sms",
     "type": "library",
-    "license": "propietary",
     "autoload": {
         "psr-4": {
             "Contacta\\MessageChars\\": "src/"

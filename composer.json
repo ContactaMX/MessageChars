@@ -1,0 +1,21 @@
+{
+    "name": "contacta/message-chars",
+    "description": "Count chars, check if is gsm or unicode, number of sms",
+    "type": "library",
+    "license": "propietary",
+    "autoload": {
+        "psr-4": {
+            "Contacta\\MessageChars\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "authors": [
+        {
+            "name": "Desarrollo",
+            "email": "desarrollo@contacta.mx"
+        }
+    ],
+    "minimum-stability": "stable"
+}
